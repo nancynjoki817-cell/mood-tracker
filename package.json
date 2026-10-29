@@ -1,3 +1,4 @@
+
 {
   "name": "mood-tracker",
   "version": "1.0.0",
@@ -17,6 +18,7 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
+    "build": "expo export --platform web",
     "predeploy": "npx expo export -p web --clear",
     "deploy": "gh-pages -d dist"
   },

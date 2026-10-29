@@ -1,11 +1,9 @@
+
 {
   "expo": {
     "name": "mood-tracker",
     "slug": "mood-tracker",
     "version": "1.0.0",
-    "experiments": {
-      "baseUrl": "/mood-tracker"
-    },
     "plugins": [
       "expo-status-bar"
     ]
